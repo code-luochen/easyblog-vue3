@@ -1,0 +1,79 @@
+{
+  "id": "3901840",
+  "name": "easyblog-admin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1596780",
+      "name": "back_android_light",
+      "font_class": "back",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "4598258",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "1212618",
+      "name": "top",
+      "font_class": "open",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "34175527",
+      "name": "top-copy",
+      "font_class": "close",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "212781",
+      "name": "settings ",
+      "font_class": "settings",
+      "unicode": "ea3e",
+      "unicode_decimal": 59966
+    },
+    {
+      "icon_id": "1596778",
+      "name": "delete_light",
+      "font_class": "delete",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "10326224",
+      "name": "010-blog",
+      "font_class": "blog",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18194779",
+      "name": "热门专题",
+      "font_class": "zhuanti",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "2127118",
+      "name": "账户",
+      "font_class": "account",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12779504",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+
+.op{
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+}
+a.a-link{
+    text-decoration: none;
+    color:#3576ed
+}
+
+.alink{
+    color:#3576ed;
+    text-decoration: none;
+}
+.not-allow{
+    cursor: not-allowed;
+    color: #ddd;
+    text-decoration: none;
+}
