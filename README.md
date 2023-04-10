@@ -15,7 +15,7 @@
 ![addcategory](https://github.com/code-luochen/easyblog-vue3/blob/1f790214e61f2b46210dac0839ba4069bccef73c/image/addcategory.png)
 
 ## 专题管理
-![specialmanage]https://github.com/code-luochen/easyblog-vue3/blob/1f790214e61f2b46210dac0839ba4069bccef73c/image/specialmanage.png)
+![specialmanage](https://github.com/code-luochen/easyblog-vue3/blob/1f790214e61f2b46210dac0839ba4069bccef73c/image/specialmanage.png)
 
 ## 专题详情
 ![detailspecial](https://github.com/code-luochen/easyblog-vue3/blob/1f790214e61f2b46210dac0839ba4069bccef73c/image/detailspecial.png)
